@@ -3,6 +3,9 @@
 ###############################################################################
 * text=auto
 
+$ cat .gitattributes
+*.rb linguist-language=Java
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
