@@ -4,6 +4,7 @@
 * text=auto
 
 Scripts/* linguist-vendored
+*.js linguist-language=csharp
 
 ###############################################################################
 # Set default behavior for command prompt diff.
