@@ -4,7 +4,7 @@
 * text=auto
 
 $ cat .gitattributes
-*.rb linguist-language=Java
+*.rb linguist-language=csharp
 
 ###############################################################################
 # Set default behavior for command prompt diff.
